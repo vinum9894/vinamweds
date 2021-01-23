@@ -46,6 +46,7 @@ hr {
 <embed src="https://ekankotri.in/common/images/songs/kanku_chhati.mp3" loop="true" autostart="true" width="2"
          height="0">
        
+<audio src="https://www.bensound.com/bensound-music/bensound-moose.mp3"></audio>
 
 
 <div class="bgimg">
@@ -64,8 +65,13 @@ hr {
 
 </body>
 <script type="text/javascript">
+    window.addEventListener("DOMContentLoaded", event => {
+  const audio = document.querySelector("audio");
+  audio.volume = 0.8;
+  audio.play();
+});
     // Set the date we're counting down to
-var countDownDate = new Date("Jan 24, 2021 00:00:00").getTime();
+var countDownDate = new Date("Jan 25, 2021 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
