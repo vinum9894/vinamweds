@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="413ac8fa-add3-495e-9533-ce13d2f35dae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/63.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/66.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/67.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/67.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/71.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/71.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/72.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/72.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nbrEDGZ39Ye5SffiR4HS7TYxDp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413ac8fa-add3-495e-9533-ce13d2f35dae" name="Default Changelist" comment="" />
+      <created>1611669518346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611669518346</updated>
+      <workItem from="1611669523888" duration="12592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
