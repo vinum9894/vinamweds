@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413ac8fa-add3-495e-9533-ce13d2f35dae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/data/62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/62.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/63.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/63.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/64.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/65.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/66.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/67.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/67.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/68.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/70.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/71.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/71.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/72.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/72.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611669518346</updated>
-      <workItem from="1611669523888" duration="12592000" />
+      <workItem from="1611669523888" duration="14244000" />
     </task>
     <servers />
   </component>
